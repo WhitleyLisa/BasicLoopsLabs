@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicLoopsLab", "BasicLoopsLab\BasicLoopsLab.csproj", "{D69C71A7-D3F8-42A8-8495-437809558457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOutput", "NumberOutput\NumberOutput.csproj", "{EE907BFD-FB6F-4055-A172-9A7445316919}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOutputLab", "NumberOutput\NumberOutputLab.csproj", "{EE907BFD-FB6F-4055-A172-9A7445316919}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasscodeLab", "PasscodeLab\PasscodeLab.csproj", "{BB3080F9-7886-42D0-992C-10EF7951BEA4}"
 EndProject
