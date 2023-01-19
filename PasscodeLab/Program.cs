@@ -1,4 +1,7 @@
-﻿bool successUnlocked = false;
+﻿// Description
+// A door has a keypad entry. The combination to get in is 13579. Write a while loop (not a do while loop) that asks the user to enter a key code. 
+// The loop will repeat as long as the user enters the wrong code. After the user enters the correct code, the program will print out a welcome message.
+bool successUnlocked = false;
 
 int timesAttempted = 1;
 
